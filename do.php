@@ -1,5 +1,14 @@
 <?php
 
+
+
+//$directory = "c:/anna-font";
+//$directory = "D:";
+//$directory = "D:/Install";
+//$directory = "1";
+//$directory = "D:\Profiles";
+
+
 //var_dump($fs->file_counter);exit(0);
 //$fs->recursive_directory_list($directory);
 //$fs->list_folder_paths($directory);
